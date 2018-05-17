@@ -1,4 +1,4 @@
-# PerceptronSentimentAnalyzer
+## PerceptronSentimentAnalyzer
 ### Prediction of True/Fake and Pos/Neg labels by building two binary Naive Bayes classifiers on the training data
 
 ### Data
